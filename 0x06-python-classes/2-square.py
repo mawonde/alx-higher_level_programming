@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+""" Definition of a square class for size type checking"""
 class Square:
     """ A square class definition by the square size
     """

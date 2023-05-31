@@ -1,6 +1,7 @@
-
-
 #!/usr/bin/python3
+
+"""A Square class definiton with exceptions"""
+
 class Square:
     """  A square class definition the sqaures's size
     """

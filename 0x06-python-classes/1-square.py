@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+"""Square class for working with squares"""
+
 class Square:
     """Square object class """
     def __init__(self, size):

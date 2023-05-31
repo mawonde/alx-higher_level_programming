@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+"""A Square class definition with decorators"""
+
 class Square:
     """  A square class definition the sqaures's size
     """

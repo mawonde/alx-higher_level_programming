@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+
+"""A square class definition to calculate position of a square"""
+
 class Square:
     """ A square class  definition by the square size
     """
