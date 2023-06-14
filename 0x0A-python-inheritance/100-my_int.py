@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" a class MyInt that inherits from int: """
 Rectangle = __import__('9-rectangle').Rectangle
 
 

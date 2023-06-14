@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" Method that raises an Exception with the message area() is not implemented
+"""
 class BaseGeometry:
     """A class that defines the attributes and methods of geometric shapes."""
 

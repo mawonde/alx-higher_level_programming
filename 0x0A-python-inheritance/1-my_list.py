@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" Method that prints the list, but sorted (ascending sort) """
 class MyList(list):
     """A class that inherits the attributes and methods of the built-in list class.
 
